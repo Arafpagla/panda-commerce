@@ -18,5 +18,55 @@
 
 }
 p{
-    font-weight: 500;
+    font-weight: 450;
+    font-size: 15px;
+}
+.container{
+    margin-bottom: 100px;
+}
+
+
+.cat-one{
+
+background-color: #fa9c35;
+border-radius: 15px;
+padding:10px 30px ;
+
+
+}
+.cat-two{
+    background-color: #ff589b;
+    border-radius: 15px;
+    padding:10px 30px ;
+}
+.cat-three{
+    background-color: #4289ff;
+    border-radius: 15px;
+    padding:10px 30px ;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 40px lightgrey;
+    border-radius: 15px;
+} 
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+
+#Subscribe{
+    height: 300px;
+}
+#Subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
