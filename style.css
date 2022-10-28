@@ -7,16 +7,20 @@
     padding: 20px 40px;
 }
 .price{
-    color: #ff136f; ;
+    color: #ff136f; 
 }
+
 .Buy-now{
    background-image: linear-gradient(to bottom ,#ff5898 0% ,#ff136f 100%);
    border: none;
    border-radius: 8px;
    padding: 9px 25px;
    cursor: pointer;
+   overflow: visible;
 
 }
+
+
 p{
     font-weight: 450;
     font-size: 15px;
