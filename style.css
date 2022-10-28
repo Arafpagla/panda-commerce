@@ -48,6 +48,21 @@ padding:10px 30px ;
     border-radius: 15px;
     padding:10px 30px ;
 }
+.cat-one:hover{
+    box-shadow: 10px 10px 40px lightgray;
+border: 0.5px solid rgb(107, 105, 105);
+}
+.cat-two:hover{
+    box-shadow: 10px 10px 40px lightgray;
+border: 0.5px solid rgb(107, 105, 105);
+}
+
+
+
+.cat-three:hover{
+    box-shadow: 10px 10px 40px lightgray;
+border: 0.5px solid rgb(107, 105, 105);
+}
 .categories h1{
     color: white;
 }
@@ -55,10 +70,13 @@ padding:10px 30px ;
 width: 100px;
 }
 .card{
-    border: none;
-    box-shadow: 5px 5px 40px lightgrey;
+    border: 0.11px solid lightgray;
     border-radius: 15px;
 } 
+.card:hover{
+    box-shadow: 5px 5px 40px lightgrey;
+border: 0.5px solid lightgray;
+}
 .card-footer{
     background-color: white;
     border-top: none;
